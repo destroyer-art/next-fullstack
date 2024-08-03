@@ -55,6 +55,3 @@ Build the web app.
 
 [TRPC](https://trpc.io) app router is located at [server/trpc/index.ts](./server/trpc/index.ts).
 
-## License
-
-MIT &copy; [EGOIST](https://github.com/sponsors/egoist)
